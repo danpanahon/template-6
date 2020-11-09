@@ -1,12 +1,12 @@
 backend:
   # name: git-gateway
   # name: github
-  # repo: drap54/ds-gitlab
-  # branch: master
-
-  name: github
-  repo: kenkoy/nuxt-netlify-landing-page
+  repo: drap54/template-6
   branch: master
+
+  # name: github
+  # repo: kenkoy/nuxt-netlify-landing-page
+  # branch: master
 
   # name: gitlab
   # repo: dumarca/landing-page-ssg
